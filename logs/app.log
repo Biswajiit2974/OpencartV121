@@ -1,0 +1,15 @@
+[2025-08-16 23:34:39] [INFO] testCases.TC_AccountRegistrationTest - Starting register
+[2025-08-16 23:34:42] [INFO] testCases.TC_AccountRegistrationTest - Clicked on myaccount link
+[2025-08-16 23:34:46] [INFO] testCases.TC_AccountRegistrationTest - clicked on register link
+[2025-08-16 23:34:46] [INFO] testCases.TC_AccountRegistrationTest - povide user details
+[2025-08-16 23:34:48] [INFO] testCases.TC_AccountRegistrationTest - validating expexted message
+[2025-08-16 23:34:48] [ERROR] testCases.TC_AccountRegistrationTest - Test failed
+[2025-08-16 23:34:48] [INFO] testCases.TC_AccountRegistrationTest - finshed TC_AccountRegistrationTest
+[2025-08-16 23:35:38] [INFO] testCases.TC_AccountRegistrationTest - Starting register
+[2025-08-16 23:35:41] [INFO] testCases.TC_AccountRegistrationTest - Clicked on myaccount link
+[2025-08-16 23:35:42] [INFO] testCases.TC_AccountRegistrationTest - clicked on register link
+[2025-08-16 23:35:42] [INFO] testCases.TC_AccountRegistrationTest - povide user details
+[2025-08-16 23:35:43] [INFO] testCases.TC_AccountRegistrationTest - validating expexted message
+[2025-08-16 23:35:43] [ERROR] testCases.TC_AccountRegistrationTest - Test failed
+[2025-08-16 23:35:43] [DEBUG] testCases.TC_AccountRegistrationTest - debug logs
+[2025-08-16 23:35:43] [INFO] testCases.TC_AccountRegistrationTest - finshed TC_AccountRegistrationTest
